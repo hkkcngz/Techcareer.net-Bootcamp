@@ -1,2 +1,1 @@
-# Techcareer.net-Bootcamp
-Techcareer.net Bootcamp Projesi
+# TechCareer.Net Bootcamp Projesi
